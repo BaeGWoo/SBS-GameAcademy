@@ -5,9 +5,11 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program", "Program.csproj", "{C5148717-DB75-42A2-9A3F-77734ED422DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class1th(Variable)", "..\Class1th(Variable)\Class1th(Variable).csproj", "{3F0F1B0A-9AEC-4A8A-9AC0-FBE78E6D9C17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class1th(Variable)", "..\Class1th(Variable)\Class1th(Variable).csproj", "{3F0F1B0A-9AEC-4A8A-9AC0-FBE78E6D9C17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class2th(Bit)", "..\Class2th(Bit)\Class2th(Bit).csproj", "{05EA0F2E-E250-4F2F-95D9-6116A867DA1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class2th(Bit)", "..\Class2th(Bit)\Class2th(Bit).csproj", "{05EA0F2E-E250-4F2F-95D9-6116A867DA1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class3th (Conditional Statement)", "..\Class3th (Conditional Statement)\Class3th (Conditional Statement).csproj", "{CA41E415-E624-4C57-92D1-06CB7C0683B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{05EA0F2E-E250-4F2F-95D9-6116A867DA1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05EA0F2E-E250-4F2F-95D9-6116A867DA1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05EA0F2E-E250-4F2F-95D9-6116A867DA1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA41E415-E624-4C57-92D1-06CB7C0683B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA41E415-E624-4C57-92D1-06CB7C0683B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA41E415-E624-4C57-92D1-06CB7C0683B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA41E415-E624-4C57-92D1-06CB7C0683B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
