@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{C5148717-DB75-42A2-9A3F-77734ED422DF}|Program.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F637A864-35CD-47E0-B1B3-42867B1D450D}|..\\Class5th (Arrangement)\\Class5th (Arrangement).csproj|c:\\users\\administrator\\desktop\\sbs-gameacademy\\class5th (arrangement)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E3632460-DFA6-46B6-80DF-DA396DF0D21A}|..\\Class4th (Iteration Statement)\\Class4th (Iteration Statement).csproj|c:\\users\\administrator\\desktop\\sbs-gameacademy\\class4th (iteration statement)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -26,11 +29,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-GameAcademy\\Class1th(Variable)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Class1th(Variable)\\Program.cs",
@@ -39,8 +42,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T04:21:55.592Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -72,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-GameAcademy\\Class2th(Bit)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Class2th(Bit)\\Program.cs",
@@ -80,12 +82,11 @@
               "RelativeToolTip": "..\\Class2th(Bit)\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T06:35:39.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T06:35:39.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-GameAcademy\\Class3th (Conditional Statement)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Class3th (Conditional Statement)\\Program.cs",
@@ -93,12 +94,11 @@
               "RelativeToolTip": "..\\Class3th (Conditional Statement)\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T06:37:32.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T06:37:32.763Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-GameAcademy\\Class4th (Iteration Statement)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Class4th (Iteration Statement)\\Program.cs",
@@ -106,7 +106,19 @@
               "RelativeToolTip": "..\\Class4th (Iteration Statement)\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T06:40:19.64Z",
+              "WhenOpened": "2024-05-17T06:40:19.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-GameAcademy\\Class5th (Arrangement)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Class5th (Arrangement)\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-GameAcademy\\Class5th (Arrangement)\\Program.cs",
+              "RelativeToolTip": "..\\Class5th (Arrangement)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:38:23.852Z",
               "EditorCaption": ""
             },
             {
@@ -117,7 +129,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-GameAcademy\\Program\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAkwAgAAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T04:38:06.794Z",
               "EditorCaption": ""
