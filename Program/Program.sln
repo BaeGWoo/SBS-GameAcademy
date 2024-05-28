@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class8th (Polymorphism)", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class9th (Random)", "..\Class9th (Random)\Class9th (Random).csproj", "{251214A5-0043-4EB8-860F-2395947642FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class10th (Collection)", "..\Class10th (Collection)\Class10th (Collection).csproj", "{637C04A5-638E-4817-AFDF-41268FF43292}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class10th (Collection)", "..\Class10th (Collection)\Class10th (Collection).csproj", "{637C04A5-638E-4817-AFDF-41268FF43292}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class11th (Operator Overloading)", "..\Class11th (Operator Overloading)\Class11th (Operator Overloading).csproj", "{99191D2D-719F-4F44-ACDA-9CCA5CAE889C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{637C04A5-638E-4817-AFDF-41268FF43292}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{637C04A5-638E-4817-AFDF-41268FF43292}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{637C04A5-638E-4817-AFDF-41268FF43292}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99191D2D-719F-4F44-ACDA-9CCA5CAE889C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99191D2D-719F-4F44-ACDA-9CCA5CAE889C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99191D2D-719F-4F44-ACDA-9CCA5CAE889C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99191D2D-719F-4F44-ACDA-9CCA5CAE889C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
